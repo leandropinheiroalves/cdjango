@@ -1,5 +1,6 @@
 Projeto django
 
+Aplicação disponível em https://novoprojetodjangosimples.herokuapp.com
 
 [![CI](https://github.com/leandropinheiroalves/cdjango/actions/workflows/django_ci.yml/badge.svg)](https://github.com/leandropinheiroalves/cdjango/actions/workflows/django_ci.yml)
 [![Codecov](https://codecov.io/gh/leandropinheiroalves/cdjango/branch/main/graph/badge.svg?token=ileFJibKw3)](https://codecov.io/gh/leandropinheiroalves/cdjango)
